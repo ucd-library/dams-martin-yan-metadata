@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1753278"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01743659"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01204481"
+    }
+  ],
+  "schema:description": "This photograph shows Martin Yan standing in front of the future San Francisco location of his restaurant, MY China. At the time of the photograph, the restaurant was under construction, and the storefront is covered with a timeline illustrating Yan\u2019s professional career as a chef.",
+  "schema:associatedMedia": {
+    "@id": "@base:/006_yan_MY_SF.jpg"
+  },
+  "schema:creator": "",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2012-07-09"
+  },
+  "schema:identifier": [
+    "D-714",
+    "ark:/87293/d3t43jc4w"
+  ],
+  "schema:image": {
+    "@id": "@base:/006_yan_MY_SF.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Martin Yan in front of MY China San Francisco Location",
+  "schema:publisher": "",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

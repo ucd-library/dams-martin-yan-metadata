@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/01745953"
+    }
+  ],
+  "schema:description": "This photograph depicts chefs Martin Yan and Julia Child. Both worked with KQED and PBS on cooking programs; at the time this photograph was taken in 1999, Yan was continuing the Yan Can Cook series, while Child was collaborating with chef Jacques P\u00e9pin on Julia & Jacques Cooking at Home",
+  "schema:associatedMedia": {
+    "@id": "@base:/003_yan_julia.jpg"
+  },
+  "schema:creator": "",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1999"
+  },
+  "schema:identifier": [
+    "D-714",
+    "ark:/87293/d36d5pm72"
+  ],
+  "schema:image": {
+    "@id": "@base:/003_yan_julia.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Martin Yan and Julia Child",
+  "schema:publisher": "",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1753014",
+    "http://schema.org/name": "Cooking (Almonds)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1754974",
+    "http://schema.org/name": "Cooking--Study and teaching"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01204481",
+    "http://schema.org/name": "California--San Francisco"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1753278",
+    "http://schema.org/name": "Cooking, Chinese"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01745953",
+    "http://schema.org/name": "Television cooking shows"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1753287",
+    "http://schema.org/name": "Cooking, Chinese--Sichuan style"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01212121",
+    "http://schema.org/name": "China--Chengdu"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01743659",
+    "http://schema.org/name": "Chinese restaurants"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00549782",
+    "http://schema.org/name": "University of California, Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1201673",
+    "http://schema.org/name": "East Indian Diaspora"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01204215",
+    "http://schema.org/name": "Cameron Highlands (Pahang, Malaysia)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/857290",
+    "http://schema.org/name": "Chinese New Year"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206572",
+    "http://schema.org/name": "California--Sonoma"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1753479",
+    "http://schema.org/name": "Cooking, Vietnamese"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01204778",
+    "http://schema.org/name": "Vietnam"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01214302",
+    "http://schema.org/name": "Rohnert Park (Calif.)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00674906",
+    "http://schema.org/name": "China--Guangzhou"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1095917",
+    "http://schema.org/name": "Restaurants--Design and construction"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1753417",
+    "http://schema.org/name": "Cooking, Peranakan"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01225798",
+    "http://schema.org/name": "Malaysia--Malacca (Malacca)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01668824",
+    "http://schema.org/name": "UC Davis Extension"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1753387",
+    "http://schema.org/name": "Cooking, Malaysian"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01006595",
+    "http://schema.org/name": "Malaysia"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0001204481",
+    "http://schema.org/name": "California--San Francisco"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01263297",
+    "http://schema.org/name": "China--Jiangmen Shi"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00559513",
+    "http://schema.org/name": "University of California, Davis. Library"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1789807",
+    "http://schema.org/name": "Picnic Day"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1753479",
+    "http://schema.org/name": "Cooking (Vietnamese)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01207888",
+    "http://schema.org/name": "Vietnam"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01207888",
+    "http://schema.org/name": "Japan--Yokohama-shi"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01305618",
+    "http://schema.org/name": "Singapore--Katong"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01027343",
+    "http://schema.org/name": "Motion Pictures--Marketing"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/987913",
+    "http://schema.org/name": "Kitchen utensils"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01206572",
+    "http://schema.org/name": "China--Guangzhou"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1733460",
+    "http://schema.org/name": "Television talk shows"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00674906",
+    "http://schema.org/name": "Johnson & Wales University"
+  }
+]

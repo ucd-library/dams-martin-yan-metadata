@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1753014"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01204481"
+    }
+  ],
+  "schema:description": "Martin Yan, assisted by San Francisco Giants Manager Felipe Alou, are shown conducting a live cooking demonstration at PacBell Park (currently known as Oracle Park). The event, sponsored by the Blue Diamond Almond Company, features the preparation of a chicken entr\u00e9e and side dishes that incorporate almonds.",
+  "schema:associatedMedia": {
+    "@id": "@base:/001_yan_felipe.tif"
+  },
+  "schema:creator": "",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2003-07-06"
+  },
+  "schema:identifier": [
+    "D-714",
+    "ark:/87293/d3fx7475n"
+  ],
+  "schema:image": {
+    "@id": "@base:/001_yan_felipe.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Martin Yan and Felipe Alou",
+  "schema:publisher": "",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

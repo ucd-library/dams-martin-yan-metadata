@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1753278"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01206572"
+    }
+  ],
+  "schema:description": "This scanned image consists of 4 photographs depicting Martin Yan during a cooking demonstration for Lee Kum Kee, a food company that specializes in producing Chinese and Asian sauces. This event takes place in Guangzhou, China. Additionally, Yan is wearing a \"SensAsian\" chef's uniform, which was a fast-casual Asian restaurant chain co-owned by Yan.",
+  "schema:associatedMedia": {
+    "@id": "@base:/048_yan_cooking_demo_china.tif"
+  },
+  "schema:creator": "",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2005"
+  },
+  "schema:identifier": [
+    "D-714",
+    "ark:/87293/d3cr5np05"
+  ],
+  "schema:image": {
+    "@id": "@base:/048_yan_cooking_demo_china.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Martin Yan cooking demonstration, Guangzhou, China",
+  "schema:publisher": "",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

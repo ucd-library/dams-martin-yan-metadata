@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1753287"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/01212121"
+    }
+  ],
+  "schema:description": "This photograph shows Martin Yan stir\u2011frying Dried Pork and Veggie while filming on location in Xiling Snow Mountain, Chengdu. This scene is from the episode \u201cThe Voice of the Mountain\u201d of the television program \"Martin Yan\u2019s Spice Kingdom.\"",
+  "schema:associatedMedia": {
+    "@id": "@base:/005_yan_snow_mt.jpg"
+  },
+  "schema:creator": "",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2017"
+  },
+  "schema:identifier": [
+    "D-714",
+    "ark:/87293/d3xw4858q"
+  ],
+  "schema:image": {
+    "@id": "@base:/005_yan_snow_mt.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Martin Yan wok stir fry cooking at Xiling Snow Mountain",
+  "schema:publisher": "",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

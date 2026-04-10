@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1753278"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/00549782"
+    }
+  ],
+  "schema:description": "This photograph shows Martin Yan performing a wok frying cooking demonstration during the grand opening event for the UC Davis Confucius Institute. The Institute, launched in 2013 through a partnership between UC Davis and Jiangnan University near Shanghai, advanced global leadership in food and beverage science and technology.",
+  "schema:associatedMedia": {
+    "@id": "@base:/008_wok_stir_frying.jpg"
+  },
+  "schema:creator": "",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2013-09-16"
+  },
+  "schema:identifier": [
+    "D-714",
+    "ark:/87293/d3jq0t487"
+  ],
+  "schema:image": {
+    "@id": "@base:/008_wok_stir_frying.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Wok stir frying demonstration at the UC Davis Confucius Institute",
+  "schema:publisher": "",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2026"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}
