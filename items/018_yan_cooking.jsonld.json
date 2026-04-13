@@ -41,7 +41,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Martin Yan cooking in his Mother's Kitchen",
+  "schema:name": "Martin Yan Cooking in His Mother's Kitchen",
   "schema:publisher": "",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
