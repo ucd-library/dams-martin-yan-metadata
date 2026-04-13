@@ -25,7 +25,7 @@
       "@id": "http://id.worldcat.org/fast/01204481"
     }
   ],
-  "schema:description": "This photograph shows Martin Yan standing in front of the future San Francisco location of his restaurant, MY China. At the time of the photograph, the restaurant was under construction, and the storefront is covered with a timeline illustrating Yan\u2019s professional career as a chef.",
+  "schema:description": "This photograph shows Martin Yan standing in front of the future San Francisco location of his restaurant, M.Y. China. At the time of the photograph, the restaurant was under construction, and the storefront is covered with a timeline illustrating Yan\u2019s professional career as a chef.",
   "schema:associatedMedia": {
     "@id": "@base:/006_yan_MY_SF.jpg"
   },
@@ -44,7 +44,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Martin Yan in front of MY China San Francisco Location",
+  "schema:name": "Martin Yan in front of M.Y. China San Francisco Location",
   "schema:publisher": "",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

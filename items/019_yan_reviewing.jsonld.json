@@ -22,7 +22,7 @@
       "@id": "http://id.worldcat.org/fast/01204481"
     }
   ],
-  "schema:description": "This image depicts Martin Yan reviewing floor plans for his MY China San Francisco Location. Located in San Francisco\u2019s Westfield Mall, My China opened its doors in December 2012.",
+  "schema:description": "This image depicts Martin Yan reviewing floor plans for his M.Y. China San Francisco Location. Located in San Francisco\u2019s Westfield Mall, M.Y. China opened its doors in December 2012.",
   "schema:associatedMedia": {
     "@id": "@base:/019_yan_reviewing.jpg"
   },
@@ -41,7 +41,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Martin Yan reviewing floor plans at MY China San Francisco",
+  "schema:name": "Martin Yan reviewing floor plans at M.Y. China San Francisco",
   "schema:publisher": "",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
