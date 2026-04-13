@@ -22,7 +22,7 @@
       "@id": "http://id.worldcat.org/fast/0001204481"
     }
   ],
-  "schema:description": "This image showcases Martin Yan performing a cooking demonstration at the MY China San Francisco location.",
+  "schema:description": "This image showcases Martin Yan performing a cooking demonstration at the M.Y. China San Francisco location.",
   "schema:associatedMedia": {
     "@id": "@base:/026_cooking_demo.jpg"
   },
